@@ -1,5 +1,4 @@
-
-RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 Data: 27/07/2025
 Empresa: Abstergo Industries
 Responsável: Lucca Vidal
@@ -28,7 +27,7 @@ Etapa 2: AWS Backup
 Foco da ferramenta: Gerenciamento centralizado de backups automatizados
 
 Descrição de caso de uso:
-Para proteger dados críticos da empresa, foi implementado o AWS Backup, que automatiza e gerencia backups de serviços AWS, eliminando processos manuais, reduzindo riscos e custos relacionados a perda de dados.
+Para proteger dados críticos da empresa, foi implementado o AWS Backup, que automatiza e gerencia backups de serviços AWS, eliminando processos manuais, reduzindo riscos e custos relacionados à perda de dados.
 
 Vantagens:
 
@@ -53,10 +52,11 @@ Automação de tarefas de resposta a eventos.
 Redução de custos com equipe de operação e aumento da disponibilidade.
 
 Conclusão
-A implementação dessas ferramentas na empresa Abstergo Industries visa a redução de custos imediatos, maior eficiência operacional e automação segura de processos, contribuindo para o aumento da produtividade e escalabilidade da empresa. Recomenda-se continuar investindo em tecnologias AWS para otimizar ainda mais os processos.
+A implementação das ferramentas na empresa Abstergo Industries tem como esperado, redução de custos operacionais, escalabilidade, aumento da produtividade e automação segura de processos, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais o processo da empresa.
 
 Anexos
 Manual de boas práticas AWS
 
 Assinatura do Responsável pelo Projeto
 Lucca Vidal
+
