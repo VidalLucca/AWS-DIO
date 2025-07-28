@@ -2,6 +2,7 @@
 *Data:* 27/07/2025
 *Empresa:* Abstergo Industries
 *Responsável:* Lucca Vidal
+---
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Lucca Vidal. O objetivo do projeto foi elencar 3 serviços AWS, com finalidade de realizar a diminuição de custos imediatos.
