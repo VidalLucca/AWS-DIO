@@ -1,7 +1,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
-*Data:* 27/07/2025
-*Empresa:* Abstergo Industries
-*Responsável:* Lucca Vidal
+*Data*: 27/07/2025
+*Empresa*: Abstergo Industries
+*Responsável*: Lucca Vidal
 ---
 
 ## Introdução
