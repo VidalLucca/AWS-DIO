@@ -62,7 +62,7 @@ Redução de custos com equipe de operação e aumento da disponibilidade.
 A adoção das ferramentas na Abstergo Industries trouxe benefícios significativos, como a redução de custos operacionais, escalabilidade, aumento da produtividade e automação segura de processos. Esses resultados contribuem diretamente para a melhoria da eficiência geral da empresa. Diante desses avanços, recomenda-se a continuidade do uso das soluções implementadas, bem como a constante avaliação de novas tecnologias que possam otimizar ainda mais os processos e manter a empresa competitiva no mercado.
 
 Anexos
-Manual de boas práticas AWS
+[Documentação AWS ](https://docs.aws.amazon.com/pt_br/)
 
 Assinatura do Responsável pelo Projeto
 Lucca Vidal
