@@ -18,7 +18,7 @@ Foco da ferramenta: Infraestrutura simplificada para pequenas cargas de trabalho
 Descrição de caso de uso:
 A empresa poderá hospedar sites, aplicações web simples e bancos de dados com o AWS Lightsail, que oferece uma solução fácil e com preço fixo mensal, ideal para workloads menores, reduzindo custos operacionais e de gerenciamento.
 
-*Vantagens:*
+*Vantagens*:
 
 Custos previsíveis e baixos, com planos fixos.
 
@@ -34,7 +34,7 @@ Foco da ferramenta: Gerenciamento centralizado de backups automatizados
 Descrição de caso de uso:
 Para proteger dados críticos da empresa, foi implementado o AWS Backup, que automatiza e gerencia backups de serviços AWS, eliminando processos manuais, reduzindo riscos e custos relacionados à perda de dados.
 
-*Vantagens:*
+*Vantagens*:
 
 Backup automatizado e centralizado.
 
@@ -47,10 +47,10 @@ Redução de custos operacionais com gerenciamento de backups manuais.
  ### Etapa 3: Amazon CloudWatch + AWS Lambda
 Foco da ferramenta: Monitoramento e automação baseada em eventos
 
-*Descrição de caso de uso:*
+*Descrição de caso de uso*:
 Para melhorar a eficiência operacional, foi configurado o CloudWatch para monitorar métricas e eventos, acionando funções Lambda para correções automáticas ou notificações, reduzindo a necessidade de intervenção manual e evitando custos com downtime.
 
-Vantagens:
+*Vantagens*:
 
 Monitoramento contínuo dos recursos e aplicações.
 
